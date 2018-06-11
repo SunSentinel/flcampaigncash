@@ -3,7 +3,9 @@
 Scrapes and parses campaign finance data from the Florida Secretary of State's website.
 
 ## How it works
-The main script grabs results from the Florida Secretary of State's Office, cleans up the fields and then saves the results as CSV and JSON.
+The Florida Secretary of State's campaign finance portal is somewhat of a nightmare to work with or glean anything meaningful from. This tool aims to make it easier to grab campaign finance data in bulk in a usable, machine-readable format rather than the fixed-width data normally returned when using the state's site. 
+
+The main script grabs results, cleans up the fields and then saves the data as CSV and JSON.
 
 ## Installing
 #### Requirements
