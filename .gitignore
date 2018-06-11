@@ -1,4 +1,4 @@
 .vscode
-*.DS_Store
+.DS_Store
 data/processed/*
 data/source/*
